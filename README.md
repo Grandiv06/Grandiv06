@@ -4,18 +4,17 @@
 <!--  HEADER BANNER                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Soroush&fontSize=52&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20TypeScript%20%26%20React%20Enthusiast&descAlignY=62&descSize=16&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Soroush&fontSize=52&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=62&descSize=16&descAlign=50"/>
 
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+beautiful+things+with+code+%F0%9F%9A%80;Turning+ideas+into+reality+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+%26+TypeScript;Building+modern+web+apps;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/Grandiv06?style=for-the-badge&logo=github&color=0d1117&labelColor=1a1a2e)](https://github.com/Grandiv06)
-[![GitHub stars](https://img.shields.io/github/stars/Grandiv06?style=for-the-badge&logo=github&color=0d1117&labelColor=1a1a2e)](https://github.com/Grandiv06)
 [![Profile Views](https://komarev.com/ghpvc/?username=Grandiv06&label=Profile%20Views&color=00d4ff&style=for-the-badge)](https://github.com/Grandiv06)
 
 </div>
@@ -24,36 +23,48 @@
 
 ## 👋 درباره من | About Me
 
-<table>
-<tr>
-<td width="130" align="center">
-  <img src="https://avatars.githubusercontent.com/u/121403658?v=4" width="110" alt="Soroush Mashayekhi"/>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/121403658?v=4" width="120" alt="Soroush Mashayekhi"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Status-Available%20for%20collab-00d4ff?style=flat-square"/>
-</td>
-<td>
+</div>
+
+<br/>
 
 ### سلام! من **سروش** هستم 👋
 
-> *Full Stack Developer* از ایران 🇮🇷 — عاشق ساختن اپلیکیشن‌های مدرن و واکنش‌گرا
+> *Frontend Developer* از ایران 🇮🇷 — عاشق ساختن رابط‌های کاربری مدرن و واکنش‌گرا
 
 <br/>
 
-| | |
-|:---:|:---|
-| 🚀 | **تمرکز فعلی:** ساخت اپلیکیشن‌های وب با React و TypeScript |
-| 💡 | **علاقه‌مندی:** UI/UX تمیز، Tailwind CSS، Spotify API |
-| 🎯 | **هدف:** تبدیل ایده‌ها به محصولات واقعی و کاربردی |
-| 🌱 | **یادگیری:** همیشه در حال کشف تکنولوژی‌های جدید |
-| ⚡ | **Fun Fact:** با `console.log()` دیباگ می‌کنم و خجالت نمی‌کشم 😄 |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,html,css,git,github,vscode,figma&perline=6" alt="My Skills"/>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="40" align="center">🚀</td>
+    <td><b>تمرکز فعلی:</b> ساخت UI/UX با React و TypeScript</td>
+  </tr>
+  <tr>
+    <td align="center">💡</td>
+    <td><b>علاقه‌مندی:</b> طراحی تمیز، Tailwind CSS، Spotify API</td>
+  </tr>
+  <tr>
+    <td align="center">🎯</td>
+    <td><b>هدف:</b> تبدیل ایده‌ها به تجربه‌های وب زیبا و کاربردی</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td><b>یادگیری:</b> همیشه در حال کشف تکنولوژی‌های جدید فرانت‌اند</td>
+  </tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td><b>Fun Fact:</b> با <code>console.log()</code> دیباگ می‌کنم و خجالت نمی‌کشم 😄</td>
+  </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,git,github,vscode,figma&perline=6" alt="My Skills"/>
+</div>
 
 <br/>
 
@@ -134,20 +145,6 @@
 | [**weather-app**](https://github.com/Grandiv06/weather-app) | Real-time weather application | `JavaScript` `API` |
 | [**minicard**](https://github.com/Grandiv06/minicard) | Minimal card UI component | `HTML` `Tailwind v4` |
 | [**todo-app**](https://github.com/Grandiv06/todo-app) | Task management application | `JavaScript` `React` |
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
