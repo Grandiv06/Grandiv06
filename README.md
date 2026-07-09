@@ -4,12 +4,14 @@
 <!--  HEADER BANNER                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Soroush&fontSize=52&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=62&descSize=16&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=130&section=header&text=Soroush&fontSize=45&fontColor=00d4ff&desc=React%20%26%20TypeScript%20Developer&descSize=14&descAlignY=72&descAlign=50"/>
 
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+%26+TypeScript;Building+modern+web+apps;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=React+%26+TypeScript+Developer;Building+modern+web+apps;Always+learning+new+things" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
@@ -24,16 +26,12 @@
 ## 👋 درباره من | About Me
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/121403658?v=4" width="120" alt="Soroush Mashayekhi"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20collab-00d4ff?style=flat-square"/>
-</div>
-
-<br/>
 
 ### سلام! من **سروش** هستم 👋
 
-> *Frontend Developer* از ایران 🇮🇷 — عاشق ساختن رابط‌های کاربری مدرن و واکنش‌گرا
+<img src="https://img.shields.io/badge/Status-Available%20for%20collab-00d4ff?style=flat-square"/>
+
+</div>
 
 <br/>
 
@@ -173,7 +171,7 @@
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=footer"/>
 
 <br/>
 
