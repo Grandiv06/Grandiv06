@@ -9,9 +9,7 @@
 <br/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+beautiful+things+with+code+%F0%9F%9A%80;Turning+ideas+into+reality+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+beautiful+things+with+code+%F0%9F%9A%80;Turning+ideas+into+reality+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -26,43 +24,49 @@
 
 ## 👋 درباره من | About Me
 
-```javascript
-const soroush = {
-  name: "Soroush Mashayekhi",
-  username: "Grandiv06",
-  location: "Iran 🇮🇷",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "React", "Tailwind CSS", "Spotify API"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "HTML5", "CSS3"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      apis: ["REST API", "Spotify API"]
-    },
-    tools: ["Git", "GitHub", "VS Code", "Figma"]
-  },
-  currentFocus: "Building modern & responsive web applications",
-  funFact: "I debug with console.log() and I'm not ashamed 😄"
-};
-```
+<table>
+<tr>
+<td width="130" align="center">
+  <img src="https://avatars.githubusercontent.com/u/121403658?v=4" width="110" alt="Soroush Mashayekhi"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20collab-00d4ff?style=flat-square"/>
+</td>
+<td>
+
+### سلام! من **سروش** هستم 👋
+
+> *Full Stack Developer* از ایران 🇮🇷 — عاشق ساختن اپلیکیشن‌های مدرن و واکنش‌گرا
+
+<br/>
+
+| | |
+|:---:|:---|
+| 🚀 | **تمرکز فعلی:** ساخت اپلیکیشن‌های وب با React و TypeScript |
+| 💡 | **علاقه‌مندی:** UI/UX تمیز، Tailwind CSS، Spotify API |
+| 🎯 | **هدف:** تبدیل ایده‌ها به محصولات واقعی و کاربردی |
+| 🌱 | **یادگیری:** همیشه در حال کشف تکنولوژی‌های جدید |
+| ⚡ | **Fun Fact:** با `console.log()` دیباگ می‌کنم و خجالت نمی‌کشم 😄 |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,html,css,git,github,vscode,figma&perline=6" alt="My Skills"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Grandiv06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Grandiv06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grandiv06&theme=tokyonight&hide_border=true&background=0D1117&stroke=1a1a2e&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" height="165" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Grandiv06&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandiv06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8" height="165" alt="Top Languages"/>
-&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=Grandiv06&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4" height="165" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandiv06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
